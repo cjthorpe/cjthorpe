@@ -7,4 +7,5 @@ Cloud-native Platform Engineer :cloud:
 
 - 🔭 I’m currently working with AWS, Kubernetes, Helm, Terraform, Prometheus, Thanos, Grafana.
 - :books: I’m currently learning ￼Azure.
+- :1st_place_medal: I'm a [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/fbaaa974-e47c-4cc3-b805-b4a8593fded8/public_url). 
 - 🤔 I’m looking for help with taming an unruly 5-year old.
