@@ -1,6 +1,6 @@
 # Chris Thorpe
 
-Cloud-native Platform Engineer :cloud:
+Cloud-native Senior Platform Engineer :cloud:
 
 [![LinkedIn](https://img.shields.io/badge/Chris_Thorpe--black?style=social&logo=linkedin)](http://linkedin.com/in/chris-thorpe-38535919)
 
